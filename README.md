@@ -55,6 +55,8 @@ flutter run
 - `lib/utils/`: Utility functions and helpers.
 - `lib/widgets/`: Custom reusable widgets.
 
+![Project Structure](https://github.com/hadikachmar3/digifood/assets/38382273/ea053d1a-8610-4cfb-9e19-05db2e059684)
+
 ## State Management
 
 This project uses [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) for state management, allowing for a clean separation of app state from the UI and business logic.
